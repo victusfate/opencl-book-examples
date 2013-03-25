@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/41/trunk/src/Chapter_14/histogram
+END
+histogram_image.cl
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/41/trunk/src/Chapter_14/histogram/histogram_image.cl
+END
+CMakeLists.txt
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/41/trunk/src/Chapter_14/histogram/CMakeLists.txt
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/41/trunk/src/Chapter_14/histogram/Makefile
+END
+histogram.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/41/trunk/src/Chapter_14/histogram/histogram.cpp
+END

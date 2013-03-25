@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/svn/!svn/ver/22/trunk/src/Chapter_22
+END
+spmv.cl
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/2/trunk/src/Chapter_22/spmv.cl
+END
+spmv.c
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/17/trunk/src/Chapter_22/spmv.c
+END
+spmv.h
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/21/trunk/src/Chapter_22/spmv.h
+END
+CMakeLists.txt
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/22/trunk/src/Chapter_22/CMakeLists.txt
+END
+matrix_gen.c
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/21/trunk/src/Chapter_22/matrix_gen.c
+END

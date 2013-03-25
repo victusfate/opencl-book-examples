@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/40/trunk/src/Chapter_16/Dijkstra
+END
+oclDijkstraKernel.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/17/trunk/src/Chapter_16/Dijkstra/oclDijkstraKernel.h
+END
+dijkstra.cl
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/2/trunk/src/Chapter_16/Dijkstra/dijkstra.cl
+END
+oclDijkstra.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/17/trunk/src/Chapter_16/Dijkstra/oclDijkstra.cpp
+END
+oclDijkstraKernel.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/17/trunk/src/Chapter_16/Dijkstra/oclDijkstraKernel.cpp
+END
+CMakeLists.txt
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/40/trunk/src/Chapter_16/Dijkstra/CMakeLists.txt
+END

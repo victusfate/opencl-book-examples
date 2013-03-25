@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/42/trunk/src/Chapter_6/HelloBinaryWorld
+END
+HelloBinaryWorld.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/42/trunk/src/Chapter_6/HelloBinaryWorld/HelloBinaryWorld.cpp
+END
+HelloWorld.cl
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/2/trunk/src/Chapter_6/HelloBinaryWorld/HelloWorld.cl
+END
+CMakeLists.txt
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/40/trunk/src/Chapter_6/HelloBinaryWorld/CMakeLists.txt
+END

@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/40/trunk/src/Chapter_11/D3Dinterop
+END
+D3Dinterop.fx
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2/trunk/src/Chapter_11/D3Dinterop/D3Dinterop.fx
+END
+D3Dinterop.cl
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2/trunk/src/Chapter_11/D3Dinterop/D3Dinterop.cl
+END
+D3Dinterop.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/17/trunk/src/Chapter_11/D3Dinterop/D3Dinterop.cpp
+END
+CMakeLists.txt
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/40/trunk/src/Chapter_11/D3Dinterop/CMakeLists.txt
+END

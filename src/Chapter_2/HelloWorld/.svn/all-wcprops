@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/42/trunk/src/Chapter_2/HelloWorld
+END
+HelloWorld.cl
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2/trunk/src/Chapter_2/HelloWorld/HelloWorld.cl
+END
+HelloWorld.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/42/trunk/src/Chapter_2/HelloWorld/HelloWorld.cpp
+END
+CMakeLists.txt
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/40/trunk/src/Chapter_2/HelloWorld/CMakeLists.txt
+END

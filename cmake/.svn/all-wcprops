@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 28
+/svn/!svn/ver/37/trunk/cmake
+END
+FindOpenCL.cmake
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/26/trunk/cmake/FindOpenCL.cmake
+END
+FindDirectX.cmake
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/2/trunk/cmake/FindDirectX.cmake
+END
+FindGLEW.cmake
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/37/trunk/cmake/FindGLEW.cmake
+END

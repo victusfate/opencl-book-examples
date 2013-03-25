@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/18/trunk/src/Chapter_3/OpenCLConvolution
+END
+Convolution.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/18/trunk/src/Chapter_3/OpenCLConvolution/Convolution.cpp
+END
+Convolution.cl
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/17/trunk/src/Chapter_3/OpenCLConvolution/Convolution.cl
+END
+CMakeLists.txt
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/10/trunk/src/Chapter_3/OpenCLConvolution/CMakeLists.txt
+END
